@@ -2,7 +2,7 @@
 
 
 ## JoeHack$ - Those Who Remain Source
-``If you want to use it, use: https://github.com/Avverias/Those-Who-Remain/blob/main/Build.lua``
+To run it execute the content of ``https://github.com/Avverias/Those-Who-Remain/blob/main/Build.lua``
 
 ### Fetures:
 
