@@ -2,7 +2,6 @@
 
 
 ## JoeHack$ - Those Who Remain Source
-### Last Update: May 17 2021 {source release day}
 
 ### Fetures:
 
