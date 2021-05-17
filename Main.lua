@@ -60,7 +60,7 @@ local ISector = CreditsCategory:Sector("Contact")
 
 
 
-CSector:Cheat("Label", "Averias#5303 - discord")
+CSector:Cheat("Label", "Averias#2829 - discord")
 CSector:Cheat("Label", "Averias - v3rmillion")
 TSector:Cheat("Label", "Realism#8928")
 ISector:Cheat("Label", "discord server: discord.gg/gkxQWssZHt")
