@@ -1,4 +1,4 @@
-![logo](https://cdn.discordapp.com/attachments/841278556326723598/842107328237142016/cover.png)
+![jh$ logo](https://cdn.discordapp.com/attachments/841278556326723598/842107328237142016/cover.png)
 
 
 ## JoeHack$ - Those Who Remain Source
