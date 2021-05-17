@@ -19,5 +19,5 @@ To run it execute the content of ``https://github.com/Avverias/Those-Who-Remain/
 * Semi-Autofarm
 
 ---
-###### Updated By: **`Averias`**
+###### Updated By: **`@Avverias`**
 ###### Release Date: May 17 2021
